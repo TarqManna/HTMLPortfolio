@@ -1,8 +1,8 @@
-**Porfolio**
+# Porfolio
 
 This is my Portfolio
 
-**License**
+## License
 
 Copyright 2024 Tareq Mannan
 
@@ -14,6 +14,6 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ![Screenshot 2024-05-25 110240](https://github.com/TarqManna/HTMLPortfolio/assets/38443048/6b537f0a-da2e-4cbc-aea2-1f29f42f23a5)
 
-**Deployed in Github:**
+## Deployed in Github:
 
 https://tarqmanna.github.io/HTMLPortfolio/
